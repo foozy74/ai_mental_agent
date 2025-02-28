@@ -3,3 +3,4 @@ autogen-ext
 pyautogen
 streamlit
 autogen
+ag2
